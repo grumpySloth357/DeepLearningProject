@@ -2,7 +2,7 @@
 
 Final project for BU EC500 K1/CS591 S2 Deep Learning
 
-Source code [here].(https://github.com/xiao281926365/Deep-Reinforcement-Learning-for-Playing-Atari-Games)
+Source code: https://github.com/xiao281926365/Deep-Reinforcement-Learning-for-Playing-Atari-Games.
 
 ## Implemented Methods: ###
 1. Deep Policy Network
