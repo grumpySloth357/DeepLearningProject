@@ -5,7 +5,7 @@ Created on Sun Feb 26 09:56:10 2017
 @author: shengx, gaconte
 
 Trains a neural network to play Q*bert.
-The network is composed of 3 hidden layes.
+The network is composed of 3 hidden layers.
 
 """
 
