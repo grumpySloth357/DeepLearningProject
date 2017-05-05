@@ -23,7 +23,7 @@ Different layouts can be found and created in the `layouts` directory
 - `python==3.5.1`
 - `tensorflow==0.8rc`
 
-## Acknoledgemenets
+## Acknowledgements
 
 DQN Framework by  (made for ATARI / Arcade Learning Environment)
 * [deepQN_tensorflow](https://github.com/mrkulk/deepQN_tensorflow) ([https://github.com/mrkulk/deepQN_tensorflow](https://github.com/mrkulk/deepQN_tensorflow))
